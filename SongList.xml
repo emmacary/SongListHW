@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="SongListStyle.css"?>
+<Records>
+	<heading> Song List for Cover Band </heading>
+	<Record>
+	  <artist>Elton John</artist>
+	  <title>Crocodile Rock</title>
+	  <genre>Classic Rock</genre>
+	  <year>1973</year>
+	</Record>
+	<Record>
+	  <artist>Russell Dickerson</artist>
+	  <title>Every Little Thing</title>
+	  <genre>Pop Country</genre>
+	  <year>1964</year>
+	</Record>
+	<Record>
+	  <artist>Asia</artist>
+	  <title>Heat of the Moment</title>
+	  <genre>Hard Rock</genre>
+	  <year>1982</year>
+	</Record>
+	<Record>
+	  <artist>One Direction</artist>
+	  <title>You and I</title>
+	  <genre>Pop</genre>
+	  <year>2013</year>
+	</Record>
+	<Record>
+	  <artist>Zac Brown Band</artist>
+	  <title>Chicken Fried</title>
+	  <genre>Country</genre>
+	  <year>2005</year>
+	</Record>
+	<Record>
+	  <artist>Plain White T's</artist>
+	  <title>Hey There Delilah</title>
+	  <genre>Alternative/Indie</genre>
+	  <year>2006</year>
+	</Record>
+	<Record>
+	  <artist>Train</artist>
+	  <title>Lost and Found</title>
+	  <genre>Pop Rock</genre>
+	  <year>2017</year>
+	</Record>
+	<Record>
+	  <artist>Elton John</artist>
+	  <title>Your Song</title>
+	  <genre>Classic Rock</genre>
+	  <year>1970</year>
+	</Record>
+	<Record>
+	  <artist>Ed Sheeran</artist>
+	  <title>Nancy Mulligan</title>
+	  <genre>Pop</genre>
+	  <year>2017</year>
+	</Record>
+	<Record>
+	  <artist>Billy Joel</artist>
+	  <title>Uptown Girl</title>
+	  <genre>Classic Rock</genre>
+	  <year>1983</year>
+	</Record>
+</Records>
